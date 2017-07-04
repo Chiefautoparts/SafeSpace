@@ -1,0 +1,25 @@
+body{
+	background-color: lavender;
+	color: grey;
+	
+
+}
+
+h1 {
+	font-size: 4em;
+	text-align: center;
+	text-shadow: 4px 4px 2px black;
+
+}
+
+h3 {
+	font-size: 2em;
+	text-align: center;
+	text-shadow: 3px 3px 2px black;
+
+}
+
+button {
+	height: 75px;
+	width: 250px;
+}
