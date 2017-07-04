@@ -6,10 +6,15 @@ body{
 }
 
 h1 {
-	font-size: 4em;
+	font-size: 8em;
 	text-align: center;
 	text-shadow: 4px 4px 2px black;
 
+}
+H2 {
+	font-size: 4em;
+	text-align: center;
+	text-shadow: 4px 4px 2px black;
 }
 
 h3 {
@@ -17,6 +22,10 @@ h3 {
 	text-align: center;
 	text-shadow: 3px 3px 2px black;
 
+}
+
+a {
+	text-align: center;
 }
 
 // button {
