@@ -1,0 +1,26 @@
+body {
+	background-color: #000000;
+	color: #F8082E;
+}
+
+img {
+	border-style: ridge;
+	border-width: 10px;
+	border-color: #D87715;
+	box-shadow: -7px -7px 10px #F8082E;
+	display: inline-block;
+	margin: 25px;
+}
+
+h1 {
+	font-size: 6em;
+
+}
+
+h3 {
+	font-size: 3em;
+}
+#molonLabe {
+	height: 500px;
+	width: inherit;
+}
