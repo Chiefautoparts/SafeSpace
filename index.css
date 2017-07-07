@@ -28,7 +28,7 @@ a {
 	text-align: center;
 }
 
-// button {
-// 	height: 75px;
-// 	width: 250px;
-// }
+#trigger {
+	text-align: center;
+	border-style: groove;
+}

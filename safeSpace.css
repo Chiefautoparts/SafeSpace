@@ -49,3 +49,8 @@ img {
 	height: 300px;
 	width: 500px;
 }
+
+#warning {
+	position: relative;
+	left: 400px;
+}
