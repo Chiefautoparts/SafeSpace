@@ -1,7 +1,7 @@
 body{
-	background-color: lavender;
-	color: grey;
-	
+	background-color: #201A3E;
+	color: #F2F2F2;
+	align-content: center;
 
 }
 
@@ -11,7 +11,7 @@ h1 {
 	text-shadow: 4px 4px 2px black;
 
 }
-H2 {
+h2 {
 	font-size: 4em;
 	text-align: center;
 	text-shadow: 4px 4px 2px black;
@@ -28,7 +28,10 @@ a {
 	text-align: center;
 }
 
-#trigger {
-	text-align: center;
+button {
+	font-size: 6em;
+	margin: 12px;
+	padding: 10px;
 	border-style: groove;
+	box-shadow: -3px -3px 1px #000000;
 }

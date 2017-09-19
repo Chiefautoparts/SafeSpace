@@ -24,3 +24,15 @@ h3 {
 	height: 500px;
 	width: inherit;
 }
+
+p {
+	font-size: 4em;
+	text-decoration: underline;
+
+}
+
+li {
+	font-size: 22px;
+	margin: 6px;
+	padding: 6px;
+}
